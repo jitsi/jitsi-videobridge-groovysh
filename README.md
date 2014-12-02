@@ -10,7 +10,7 @@ somewhere in your classpath and tell the bridge to launch
 
     org.jitsi.videobridge.groovysh.GroovyShellActivator
 
-To tell the bridge to launch the groovy shell activator, put the [bundles.txt](resources/bundles.txt) file under ~/.sip-communicator
+To tell the bridge to launch the groovy shell activator, put this [bundles.txt](resources/bundles.txt) file under ~/.sip-communicator
 
 To access the groovy shell run
 
