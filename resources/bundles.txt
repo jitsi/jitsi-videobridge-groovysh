@@ -1,0 +1,15 @@
+net/java/sip/communicator/impl/libjitsi/LibJitsiActivator
+net/java/sip/communicator/util/UtilActivator
+net/java/sip/communicator/impl/fileaccess/FileAccessActivator
+net/java/sip/communicator/impl/configuration/ConfigurationActivator
+net/java/sip/communicator/impl/resources/ResourceManagementActivator
+net/java/sip/communicator/impl/netaddr/NetaddrActivator
+net/java/sip/communicator/impl/packetlogging/PacketLoggingActivator
+net/java/sip/communicator/service/gui/internal/GuiServiceActivator
+net/java/sip/communicator/service/protocol/media/ProtocolMediaActivator
+org/jitsi/videobridge/log/LoggingBundleActivator
+org/jitsi/videobridge/VideobridgeBundleActivator
+org/jitsi/videobridge/rest/RESTBundleActivator
+org/jitsi/videobridge/stats/StatsManagerBundleActivator
+org/jitsi/videobridge/osgi/OSGiBundleActivator
+org/jitsi/videobridge/groovysh/impl/GroovyShellActivator
